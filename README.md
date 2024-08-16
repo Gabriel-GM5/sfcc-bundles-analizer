@@ -8,3 +8,6 @@ Run the script, browse for the file, and wait for the process to finish. The sel
 ## How to run
 - `python main.py`
 - Or use your favorite Python tool/ide
+## TODOs
+- Add customization options, such as export only bundles, output file names, etc.
+- Generate executable
