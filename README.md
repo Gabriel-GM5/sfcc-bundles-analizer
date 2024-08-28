@@ -11,3 +11,4 @@ Run the script, browse for the file, and wait for the process to finish. The sel
 ## TODOs
 - Add customization options, such as export only bundles, output file names, etc.
 - Generate executable
+- Add prices for bundles and child products
